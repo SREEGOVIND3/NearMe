@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 22-04-2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -131,13 +131,12 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![alt text](<tvm/tvc/static/Screenshot 2024-03-25 180553.png>)
-![alt text](<tvm/tvc/static/Screenshot 2024-03-25 180458.png>)
-![alt text](<tvm/tvc/static/Screenshot 2024-03-25 180519.png>)
-![alt text](<tvm/tvc/static/Screenshot 2024-03-25 180508.png>)
-![alt text](<tvm/tvc/static/Screenshot 2024-03-25 180530.png>)
-![alt text](<tvm/tvc/static/Screenshot 2024-03-25 180540.png>)
-
+![Screenshot 2025-04-23 215628](https://github.com/user-attachments/assets/f52e2dda-9935-482a-a0b7-bd80a153829b)
+![Screenshot 2025-04-23 215950](https://github.com/user-attachments/assets/63bd36aa-a58e-4dab-8a44-072b8c294f8b)
+![Screenshot 2025-04-23 220021](https://github.com/user-attachments/assets/4055c5ab-f11a-4e89-bd76-27664e3a6ee9)
+![Screenshot 2025-04-23 220039](https://github.com/user-attachments/assets/4580dd54-e764-41ac-a818-21ac1c270637)
+![Screenshot 2025-04-23 220054](https://github.com/user-attachments/assets/989b68dd-771b-4d1c-b989-d30dc04dcc81)
+![Screenshot 2025-04-23 220110](https://github.com/user-attachments/assets/3b8209d7-9a13-47e1-b74c-4ad3dede359e)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
